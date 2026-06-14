@@ -101,7 +101,7 @@ Các hàm được chuẩn hóa theo yêu cầu hệ thống Auto-testing của 
 
 ## 📝 Báo cáo đính kèm
 
-Chi tiết về cách tính toán Heuristic bằng giải thuật BFS (Task 1), các ví dụ chạy tay (Manual Runs) so sánh ưu/nhược điểm của từng hàm khoảng cách, và cơ chế chuyển đổi Grid sang Ma trận trọng số (Task 4) được trình bày đầy đủ trong file báo cáo dạng PDF ở thư mục gốc: `[MSSV].pdf`.
+Chi tiết về cách tính toán Heuristic bằng giải thuật BFS (Task 1), các ví dụ chạy tay (Manual Runs) so sánh ưu/nhược điểm của từng hàm khoảng cách, và cơ chế chuyển đổi Grid sang Ma trận trọng số (Task 4) được trình bày đầy đủ trong file báo cáo dạng PDF.
 
 ---
 
