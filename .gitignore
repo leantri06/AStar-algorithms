@@ -1,0 +1,66 @@
+# ==========================================
+# 1. Compiled Objects & Executables (Mã máy & File chạy)
+# ==========================================
+*.o
+*.obj
+*.exe
+*.out
+*.app
+# Loại bỏ file thực thi demo được tạo ra khi compile tay
+astar_demo
+
+# ==========================================
+# 2. Build Directories (Thư mục build tự động)
+# ==========================================
+build/
+Build/
+bin/
+obj/
+x64/
+Win32/
+Release/
+Debug/
+
+# ==========================================
+# 3. IDE & Text Editors Configuration (Cấu hình công cụ)
+# ==========================================
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# CLion / JetBrains
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.filters
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+
+# ==========================================
+# 4. OS Generated Files (File tạm của Hệ điều hành)
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# 5. Compressed Files (File nén - Đề phòng bạn quên)
+# ==========================================
+# Giữ lại định dạng nén đề phòng bạn lưu nhầm file nộp bài (.rar) vào git
+*.rar
+*.zip
+*.tar.gz
+*.7z
